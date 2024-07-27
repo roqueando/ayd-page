@@ -1,0 +1,11 @@
+.subtitle {
+  font-family: 'League Spartan';
+  font-weight: 700;
+  font-size: 60px;
+  letter-spacing: -4px;
+  margin-right: 5%;
+}
+
+.center {
+  text-align: center;
+}
